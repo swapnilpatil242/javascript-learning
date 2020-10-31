@@ -1,0 +1,19 @@
+JavaScript often abbreviated as JS, is a programming language that conforms to the ECMAScript specification.
+JavaScript is high-level, often just-in-time compiled, and multi-paradigm. 
+It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
+
+JavaScript is the dominant client-side scripting language of the Web, with 95% of websites using it for this purpose.
+Scripts are embedded in or included from HTML documents and interact with the DOM. 
+All major web browsers have a built-in JavaScript engine that executes the code on the user's device.
+
+
+First appeared :	December 4, 1995
+Stable release : ECMAScript 2020 / June 2020;
+
+JavaScript engines were originally used only in web browsers, but they are now embedded in some servers, usually via Node.js. 
+They are also embedded in a variety of applications created with frameworks such as Electron and Cordova.
+
+
+
+
+List of JS libraries : https://en.wikipedia.org/wiki/List_of_JavaScript_libraries
